@@ -1,5 +1,4 @@
-# jshub.io
+# JamesLabs
 Micro Hub for your Sensors
 
 
-Visit http://jshub.io
